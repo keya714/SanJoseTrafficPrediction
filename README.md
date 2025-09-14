@@ -1,6 +1,6 @@
 # Traffic Accident High-Risk Zone Prediction
 
-This project utilizes PySpark and TensorFlow to build a predictive model for identifying high-risk motor vehicle accident zones based on demographic and location data. The system processes large datasets efficiently and applies a neural network model to predict accident hotspots, supporting targeted public safety interventions.
+This project utilizes PySpark, Federated learning and TensorFlow to build a predictive model for identifying high-risk motor vehicle accident zones based on demographic and location data. The system processes large datasets efficiently and applies a neural network model to predict accident hotspots, supporting targeted public safety interventions.
 
 ---
 
