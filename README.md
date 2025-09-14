@@ -92,4 +92,4 @@ Execute the main Python script after adjusting dataset paths and environment set
 
 ## Acknowledgments
 
-This project is inspired by public health and safety initiatives leveraging big data anal
+This project is inspired by public health and safety initiatives leveraging big data analysis.
